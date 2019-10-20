@@ -1,9 +1,9 @@
 {
     "layout": "tickets.njk",
     "page": {
-        "title": "ServerlessDays London - Tickets",
+        "title": "ServerlessDays Cardiff - Tickets",
         "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io/tickets",
+        "url": "https://cardiff.serverlessdays.io/tickets",
         "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
     },
     "tickets": [

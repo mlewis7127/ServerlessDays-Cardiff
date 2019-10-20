@@ -1,5 +1,5 @@
-# serverlessdays-london
-New Site for ServerlessDays London
+# serverlessdays-cardiff
+New Site for ServerlessDays Cardiff (fork of ServerlessDays London)
 
 Static site generated using 11ty and nunjucks templates
 
