@@ -80,3 +80,4 @@ typings/
 .dynamodb/
 
 _site
+.DS_Store
