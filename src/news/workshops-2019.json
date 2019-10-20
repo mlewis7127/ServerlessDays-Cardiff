@@ -1,9 +1,0 @@
-{
-  "layout": "post.njk",
-  "page": {
-      "title": "ServerlessDays Cardiff 2020 Workshops",
-      "description": "We're delighted to announce our workshops.",
-      "url": "https://cardiff.serverlessdays.io/news/workshops-2020",
-      "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1562142638/London/2019/workshops_card.jpg"
-  }
-}

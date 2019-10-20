@@ -1,9 +1,0 @@
-{
-    "layout": "post.njk",
-    "page": {
-        "title": "Announcing ServerlessDays Cardiff 2020",
-        "description": "The second edition of ServerlessDays Cardiff is upon us, new venue, higher capacity, bigger program. Get your Serverless on!",
-        "url": "https://cardiff.serverlessdays.io/news/announcing-serverless-days-2019",
-        "image": "https://cardiff.serverlessdays.io/img/imperial_above.jpg"
-    }
-}
