@@ -12,8 +12,8 @@
             "description": "Standard Admission",
             "price": "£35",
             "cta": {            
-                "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
-                "name": "Buy"
+                "path": "#",
+                "name": "Soon"
             }
         },
         {
@@ -21,17 +21,17 @@
             "description": "Standard Admission for you and sponsor a ticket for someone else",
             "price": "£70",
             "cta": {            
-                "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
-                "name": "Buy"
+                "path": "#",
+                "name": "Soon"
             }
         },
         {
             "title": "Scholarship",
-            "description": "Are you from an under represented minority? Apply for our scholarship via diversitytickets.org",
+            "description": "Apply for our scholarship via diversitytickets.org",
             "price": "£0",
             "cta": {            
-                "path": "https://diversitytickets.org/en/events/420",
-                "name": "Apply"
+                "path": "#",
+                "name": "Apply Soon"
             }
         }
     ]

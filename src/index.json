@@ -12,7 +12,7 @@
         "startDate": "13 February 2019",
         "endDate": "13 February 2019",
         "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
-        "hero": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg",
+        "hero": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571607730/cardiff_dmlbbi.jpg",
         "tagline": "One Day. One Track. One Community",
         "cta": {
             "path": "https://ti.to",
@@ -77,7 +77,7 @@
     ],
     "venue": {
         "text": "After last year great years in Cardiff, at Tramshed, ServerlessDays Cardiff is moving to an even bigger venue. It will still be close to the city centre and within easy reach of the train station",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_480/v1559600209/London/2019/imperial_med.jpg",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571607730/cardiff_dmlbbi.jpg",
         "cta": {
             "path": "https://www.google.com/maps/place/Cardiff/@51.5023268,-3.2750894,12z/data=!3m1!4b1!4m5!3m4!1s0x486e02d434ec53f5:0x143406db6586670e!8m2!3d51.481581!4d-3.17909",
             "name": "Directions"
