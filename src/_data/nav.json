@@ -6,24 +6,9 @@
             "name": "News"
         },
         {
-            "key": "speakers",
-            "path": "/speakers",
-            "name": "Speakers"
-        },
-        {
             "key": "agenda",
             "path": "/agenda",
             "name": "Agenda"
-        },
-        {
-            "key": "workshops",
-            "path": "/workshops",
-            "name": "Workshops"
-        },
-        {
-            "key": "sponsors",
-            "path": "/sponsors",
-            "name": "Sponsors"
         },
         {
             "key": "coc",
@@ -31,9 +16,9 @@
             "name": "Code of Conduct"
             },
         {
-            "key": "tickets",
-            "path": "/tickets",
-            "name": "Tickets",
+            "key": "papers",
+            "path": "https://callforpapers.io",
+            "name": "Call for Papers",
             "cta": "true"
         }
     ]
