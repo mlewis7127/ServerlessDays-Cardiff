@@ -17,7 +17,7 @@
             },
         {
             "key": "papers",
-            "path": "https://callforpapers.io",
+            "path": "#",
             "name": "Call for Papers",
             "cta": "true"
         }
