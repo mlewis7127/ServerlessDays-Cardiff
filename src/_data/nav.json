@@ -17,7 +17,7 @@
             },
         {
             "key": "papers",
-            "path": "#",
+            "path": "https://www.papercall.io/serverlessdayscwl2020",
             "name": "Call for Papers",
             "cta": "true"
         }
