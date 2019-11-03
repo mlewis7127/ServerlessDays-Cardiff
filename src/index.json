@@ -19,7 +19,7 @@
             "name": "Call for papers"
         },
         "altCTA": {
-            "path": "#",
+            "path": "/static/ServerlessDays-Cardiff-Sponsor-Prospectus.pdf",
             "name": "Sponsors"
         }
     },
@@ -83,7 +83,7 @@
     ],
     "venue": {
         "text": "After the 2019 event sold out, ServerlessDays Cardiff is moving to an even bigger venue. It will still be close to the city centre and within easy reach of the train station",
-        "_image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571900550/depot_ivziis.jpg",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571900550/depot_ivziis.jpg",
         "cta": {
             "path": "https://www.google.com/maps/place/Cardiff/@51.5023268,-3.2750894,12z/data=!3m1!4b1!4m5!3m4!1s0x486e02d434ec53f5:0x143406db6586670e!8m2!3d51.481581!4d-3.17909",
             "name": "Directions"

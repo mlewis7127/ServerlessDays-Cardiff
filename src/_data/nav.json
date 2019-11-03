@@ -14,7 +14,13 @@
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
-            },
+        },
+        {
+            "key": "sponsors",
+            "path": "/static/ServerlessDays-Cardiff-Sponsor-Prospectus.pdf",
+            "name": "Sponsors",
+            "cta": "true"
+        },
         {
             "key": "papers",
             "path": "https://www.papercall.io/serverlessdayscwl2020",
