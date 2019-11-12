@@ -8,26 +8,26 @@
     },
     "tickets": [
         {
-            "title": "Standard Ticket",
+            "title": "Early Bird Ticket",
             "description": "Standard Admission",
-            "price": "£35",
+            "price": "£25",
             "cta": {            
-                "path": "#",
-                "name": "Soon"
+                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2020",
+                "name": "Buy"
             }
         },
         {
-            "title": "Standard + Sponsor Ticket",
+            "title": "Early Bird + Sponsor Ticket",
             "description": "Standard Admission for you and sponsor a ticket for someone else",
-            "price": "£70",
+            "price": "£50",
             "cta": {            
-                "path": "#",
-                "name": "Soon"
+                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2020",
+                "name": "Buy"
             }
         },
         {
             "title": "Scholarship",
-            "description": "Apply for our scholarship via diversitytickets.org",
+            "description": "Scholarship ticket",
             "price": "£0",
             "cta": {            
                 "path": "#",
