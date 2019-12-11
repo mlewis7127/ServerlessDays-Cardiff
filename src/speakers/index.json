@@ -7,6 +7,11 @@
         "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
     },
     "speakers" :  [
-      
+        {
+            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576097520/speakers/sheen_udeprz.jpg",
+            "alt": "Sheen Brisals",
+            "link": "/speakers/sheen",
+            "talk": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach and the serverless technologies that made the vision a great success."
+        }
     ]
 }

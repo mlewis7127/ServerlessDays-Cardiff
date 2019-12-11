@@ -11,6 +11,11 @@
             "name": "Agenda"
         },
         {
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
+        },
+        {
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
