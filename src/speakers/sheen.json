@@ -2,7 +2,7 @@
   "layout": "speaker.njk",
   "page": {
       "title": "ServerlessDays Cardiff - Sheen Brisals",
-      "description": "A seasoned software engineer, AWS Certified Solutions Architect and a team coach, currently at LEGO architecting serverless eCommerce solutions.",
+      "description": "A seasoned software engineer, AWS Certified Solutions Architect and a team coach, currently at LEGO steering the cloud migration journey.",
       "url": "https://cardiff.serverlessdays.io/speakers/sheen",
       "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
   },
