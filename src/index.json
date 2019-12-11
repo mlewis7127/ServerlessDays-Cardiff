@@ -34,8 +34,14 @@
       ]
     },
     "speakers": {
-        "text": "The 2020 edition of ServerlessDays Cardiff will bring us a broad array of speakers and topics just like our last event.  We will be opening a call for papers soon",
+        "text": "The 2020 edition of ServerlessDays Cardiff will bring us a broad array of speakers and topics just like our last event.",
         "lineup": [
+          {
+            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560768639/London/2019/sheen.jpg",
+            "alt": "Sheen Brisals",
+            "link": "/speakers/sheen",
+            "talk": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach, the learnings and of course the serverless technologies that made the vision a reality."
+          }
         ]
     },
     "agenda": [
