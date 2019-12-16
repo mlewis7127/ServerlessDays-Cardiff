@@ -12,6 +12,19 @@
             "alt": "Sheen Brisals",
             "link": "/speakers/sheen",
             "talk": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach and the serverless technologies that made the vision a great success."
+        },
+        {
+            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576525702/speakers/Farrah_Campbell_ckmynu.jpg",
+            "alt": "Farrah Campbell",
+            "link": "/speakers/farrah",
+            "talk": "Serverless is a relatively new & with that comes a new community & new opportunities. In this talk you will learn how one woman is taking advantage of the new opportunities provided by the Serverless Ecosystem and has aligned her personal goals with business goals."
+        },
+        {
+            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576527022/speakers/Aviad_Mor_ucleyr.jpg",
+            "alt": "Aviad Mor",
+            "link": "/speakers/aviad",
+            "talk": "Getting the needed traceability in order to troubleshoot quickly across managed a-sync services is not simple. We would like to share our experience of how this can be done."
         }
+
     ]
 }
