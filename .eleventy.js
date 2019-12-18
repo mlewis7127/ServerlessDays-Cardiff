@@ -5,7 +5,7 @@ const Purgecss = require('purgecss')
 const { JSDOM } = require('jsdom')
 const CleanCSS = require("clean-css");
 
-const cssFiles = ['./src/css/custom.css','./src/css/markdown.css', './src/css/tachyons.css']
+const cssFiles = ['./src/css/tachyons.css','./src/css/custom.css','./src/css/markdown.css']
 
 const cleanCSSOptions = {
   level: {
