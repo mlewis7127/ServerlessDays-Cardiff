@@ -6,6 +6,11 @@
             "name": "News"
         },
         {
+            "key": "workshops",
+            "path": "/workshops",
+            "name": "Workshops"
+        },
+        {
             "key": "agenda",
             "path": "/agenda",
             "name": "Agenda"
