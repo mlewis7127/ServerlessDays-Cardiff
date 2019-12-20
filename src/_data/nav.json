@@ -27,12 +27,6 @@
             "cta": "true"
         },
         {
-            "key": "papers",
-            "path": "https://www.papercall.io/serverlessdayscwl2020",
-            "name": "Call for Papers",
-            "cta": "true"
-        },
-        {
             "key": "tickets",
             "path": "/tickets",
             "name": "Tickets",
