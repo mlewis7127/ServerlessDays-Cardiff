@@ -24,6 +24,12 @@
             "alt": "Aviad Mor",
             "link": "/speakers/aviad",
             "talk": "Getting the needed traceability in order to troubleshoot quickly across managed a-sync services is not simple. We would like to share our experience of how this can be done."
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1576935854/bret-mcgowen_l5wuth.jpg",
+            "alt": "Bret McGowen",
+            "link": "/speakers/bret",
+            "talk": "Serverless containers have interesting advantages, including custom runtimes and languages, multi-concurrency which can result in fewer cold starts, etc. And with community tools, it can even build those Dockerfiles for you!"
         }
 
     ]

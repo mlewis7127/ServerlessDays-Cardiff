@@ -1,0 +1,32 @@
+{
+  "layout": "speaker.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff - Bret McGowen",
+      "description": "After 10 years of working in healthcare management, a serendipitous 20-minute car ride with Kara Swisher inspired Farrah to make the jump into technology. She has worked at multiple startups in many different capacities, eventually working her way to being the Ecosystems Director for Stackery in Portland, Oregon. She is known for not only her ability to get things done but her track-record of accomplishing lofty goals in creative, dynamic ways with an infectious smile. Her passion lies in influencing outcomes and driving projects with multiple stakeholders, priorities, and personalities towards a common goal. She will be the first to tell you how much she loves the chaos and challenges that tech provides. Farrah has shaped a unique story and career that supports her passion for fostering genuine, vibrant communities. She aims to re-define the experience of “providing a service” with a no bs attitude and lots of compassion.",
+      "url": "https://cardiff.serverlessdays.io/speakers/sheen",
+      "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576527022/speakers/Aviad_Mor_ucleyr.jpg"
+  },
+  "speaker": {
+      "name": "Bret McGowen",
+      "title": "Serverless your containers with Knative and Cloud Run",
+      "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1576935854/bret-mcgowen_l5wuth.jpg",
+      "bio": "Bret is a Serverless Developer Advocate on the Google Cloud team and focuses on serverless products like Cloud Run, Google Cloud Functions, App Engine, Firebase, machine learning APIs, and more. He’s currently an aspiring Node.js developer. Prior to Google, Bret worked as a software engineer in the cloud industry at Rackspace. He’s often on the running trail, volleyball court or kickball field.",
+      "talk": {
+          "title": "Serverless your containers with Knative and Cloud Run",
+          "abstract" : "Even if you don’t see them, containers are what runs your code in most serverless platforms. By using containers directly, you can write serverless apps in almost any language and bundle your custom runtimes and binaries. If you’re nervous about containers, we’ll even discuss community tools that build containers for you, without having to know anything about Docker! Also learn how Knative, the open source project from Google, Pivotal, Red Hat and more, provides an industry standard way to build serverless platforms and run your serverless apps on top of Kubernetes. Knative lets you tune scaling parameters, run on hardware with GPUs or multi-core processors, and more."
+      },
+      "social": [
+          {
+              "name": "Twitter",
+              "link": "https://twitter.com/bretmcg",
+              "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+          }
+      ],
+      "links": [
+          {
+              "text": "",
+              "link": ""
+          }
+      ]
+  }
+}
