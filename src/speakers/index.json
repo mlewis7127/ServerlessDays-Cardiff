@@ -30,6 +30,12 @@
             "alt": "Bret McGowen",
             "link": "/speakers/bret",
             "talk": "Serverless containers have interesting advantages, including custom runtimes and languages, multi-concurrency which can result in fewer cold starts, etc. And with community tools, it can even build those Dockerfiles for you!"
+        },
+        {
+            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1577031107/speakers/beth_north_xx9cpr.jpg",
+            "alt": "Beth North",
+            "link": "/speakers/beth",
+            "talk": "Serverless has opened a whole new playing field and this very moment in time, is an opportunity to enter a new ecosystem, fast track your career, and make an impact on the business value working on projects that you never imagined were possible. In this session, Farrah will share her motivations for learning Serverless, her personal experiences working in the Serverless ecosystem, the surprising ways that these new skills have benefited her career, and why she believes that serverless can be for anyone and everyone who’s willing to learn."
         }
 
     ]
