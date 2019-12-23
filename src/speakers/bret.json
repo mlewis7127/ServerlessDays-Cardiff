@@ -8,7 +8,7 @@
   },
   "speaker": {
       "name": "Bret McGowen",
-      "title": "Serverless your containers with Knative and Cloud Run",
+      "title": "Serverless Developer Advocate, Google",
       "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1576935854/bret-mcgowen_l5wuth.jpg",
       "bio": "Bret is a Serverless Developer Advocate on the Google Cloud team and focuses on serverless products like Cloud Run, Google Cloud Functions, App Engine, Firebase, machine learning APIs, and more. He’s currently an aspiring Node.js developer. Prior to Google, Bret worked as a software engineer in the cloud industry at Rackspace. He’s often on the running trail, volleyball court or kickball field.",
       "talk": {
