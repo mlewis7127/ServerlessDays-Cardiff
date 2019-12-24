@@ -35,8 +35,15 @@
             "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1577031107/speakers/beth_north_xx9cpr.jpg",
             "alt": "Beth North",
             "link": "/speakers/beth",
-            "talk": "Serverless has opened a whole new playing field and this very moment in time, is an opportunity to enter a new ecosystem, fast track your career, and make an impact on the business value working on projects that you never imagined were possible. In this session, Farrah will share her motivations for learning Serverless, her personal experiences working in the Serverless ecosystem, the surprising ways that these new skills have benefited her career, and why she believes that serverless can be for anyone and everyone who’s willing to learn."
+            "talk": "50% of employees experience imposter syndrome in their career, this rises to nearly 70% in the tech industry. I want to talk you through my own experience as a Woman in Tech and give some tips on what has helped me push myself when that Imposter Goblin won’t stop talking when you want to work."
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577196533/jeremy-daly_uqcjcu.png",
+            "alt": "Jeremy Daly",
+            "link": "/speakers/jeremy",
+            "talk": "Serverless functions have the ability to scale almost infinitely. While great for compute, it can be a MAJOR PROBLEM for other downstream resources. In this talk, we’ll discuss strategies and patterns to create highly resilient serverless apps that mitigate pressure on “non-serverless” systems"
         }
+
 
     ]
 }
