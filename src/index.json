@@ -34,15 +34,63 @@
       ]
     },
     "speakers": {
-        "text": "The 2020 edition of ServerlessDays Cardiff will bring us a broad array of speakers and topics just like our last event.",
+        "text": "The 2020 edition of ServerlessDays Cardiff brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r  With this in mind we have a fantastic lineup already confirmed, looking at the opportunities afforded by serverless, best practices in migrating to serverless, options for addressing the pain points and enterprises sharing what they’re doing today in production. We hope the 2020 edition of ServerlessDays Cardiff will have something for everyone.",
         "lineup": [
           {
             "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576097520/speakers/sheen_udeprz.jpg",
             "alt": "Sheen Brisals",
             "link": "/speakers/sheen",
-            "talk": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach, the learnings and of course the serverless technologies that made the vision a reality."
-          }
-        ]
+            "talk": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach and the serverless technologies that made the vision a great success."
+        },
+        {
+            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576525702/speakers/Farrah_Campbell_ckmynu.jpg",
+            "alt": "Farrah Campbell",
+            "link": "/speakers/farrah",
+            "talk": "Serverless is a relatively new & with that comes a new community & new opportunities. In this talk you will learn how one woman is taking advantage of the new opportunities provided by the Serverless Ecosystem and has aligned her personal goals with business goals."
+        },
+        {
+            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576527022/speakers/Aviad_Mor_ucleyr.jpg",
+            "alt": "Aviad Mor",
+            "link": "/speakers/aviad",
+            "talk": "Getting the needed traceability in order to troubleshoot quickly across managed a-sync services is not simple. We would like to share our experience of how this can be done."
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1576935854/bret-mcgowen_l5wuth.jpg",
+            "alt": "Bret McGowen",
+            "link": "/speakers/bret",
+            "talk": "Serverless containers have interesting advantages, including custom runtimes and languages, multi-concurrency which can result in fewer cold starts, etc. And with community tools, it can even build those Dockerfiles for you!"
+        },
+        {
+            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1577031107/speakers/beth_north_xx9cpr.jpg",
+            "alt": "Beth North",
+            "link": "/speakers/beth",
+            "talk": "50% of employees experience imposter syndrome in their career, this rises to nearly 70% in the tech industry. I want to talk you through my own experience as a Woman in Tech and give some tips on what has helped me push myself when that Imposter Goblin won’t stop talking when you want to work."
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577196533/jeremy-daly_uqcjcu.png",
+            "alt": "Jeremy Daly",
+            "link": "/speakers/jeremy",
+            "talk": "Serverless functions have the ability to scale almost infinitely. While great for compute, it can be a MAJOR PROBLEM for other downstream resources. In this talk, we’ll discuss strategies and patterns to create highly resilient serverless apps that mitigate pressure on “non-serverless” systems"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577197266/carl_austin_jrweig.jpg",
+            "alt": "Carl Austin",
+            "link": "/speakers/carl",
+            "talk": "Serverless is the saving grace of the data lake, projects known for high rates of failure. We will talk you through a successful production data lake delivery for a UK bank using Azure serverless capabilities to not only succeed but deliver in a matter of months."
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577197679/yordanka_f2b4b4.jpg",
+            "alt": "Yordanka Ivanova",
+            "link": "/speakers/yordanka",
+            "talk": "Serverless is the saving grace of the data lake, projects known for high rates of failure. We will talk you through a successful production data lake delivery for a UK bank using Azure serverless capabilities to not only succeed but deliver in a matter of months."
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577199193/yan-cui_jfftlm.png",
+            "alt": "Yan Cui",
+            "link": "/speakers/yan",
+            "talk": "Refactoring a monolith to serverless can be intimidating, but there are discrete steps that you can take to simplify the process. In this talk, AWS Serverless Hero Yan Cui outlines 8 steps to successfully refactor your monolith and highlight key decision points such as language and tooling choices."
+        }
+      ]
     },
     "agenda": [
       {
