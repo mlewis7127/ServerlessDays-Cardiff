@@ -42,6 +42,18 @@
             "alt": "Jeremy Daly",
             "link": "/speakers/jeremy",
             "talk": "Serverless functions have the ability to scale almost infinitely. While great for compute, it can be a MAJOR PROBLEM for other downstream resources. In this talk, we’ll discuss strategies and patterns to create highly resilient serverless apps that mitigate pressure on “non-serverless” systems"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577197266/carl_austin_jrweig.jpg",
+            "alt": "Carl Austin",
+            "link": "/speakers/carl",
+            "talk": "Serverless is the saving grace of the data lake, projects known for high rates of failure. We will talk you through a successful production data lake delivery for a UK bank using Azure serverless capabilities to not only succeed but deliver in a matter of months."
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577197679/yordanka_f2b4b4.jpg",
+            "alt": "Yordanka Ivanova",
+            "link": "/speakers/yordanka",
+            "talk": "Serverless is the saving grace of the data lake, projects known for high rates of failure. We will talk you through a successful production data lake delivery for a UK bank using Azure serverless capabilities to not only succeed but deliver in a matter of months."
         }
 
 
