@@ -89,6 +89,18 @@
             "alt": "Yan Cui",
             "link": "/speakers/yan",
             "talk": "Refactoring a monolith to serverless can be intimidating, but there are discrete steps that you can take to simplify the process. In this talk, AWS Serverless Hero Yan Cui outlines 8 steps to successfully refactor your monolith and highlight key decision points such as language and tooling choices."
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577206455/danilo-poccia_og5sdj.jpg",
+            "alt": "Danilo Poccia",
+            "link": "/speakers/danilo",
+            "talk": "The purpose of this talk is to map features to real world use cases, so that everyone can get more value from this serverless thing!"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577205399/sara-gerion_zxui2x.jpg",
+            "alt": "Sara Gerion",
+            "link": "/speakers/sara",
+            "talk": "Lessons learnt from not so obvious failure modes of AWS serverless services at DAZN, and how to mitigate them, from a backend engineer perspective."
         }
       ]
     },
