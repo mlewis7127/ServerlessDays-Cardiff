@@ -1,0 +1,32 @@
+{
+  "layout": "speaker.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff - David Carboni",
+      "description": "What happens when you have a shiny ML model to detect mangroves, access to a global satellite imagery open dataset and want to serve it to customers ad-hoc without full time infrastructure?",
+      "url": "https://cardiff.serverlessdays.io/speakers/david",
+      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578131864/david-carboni_prfaeu.jpg"
+  },
+  "speaker": {
+      "name": "David Carboni",
+      "title": "Co-Founder & head geek (Technology Director) at NotBinary",
+      "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578131864/david-carboni_prfaeu.jpg",
+      "bio": "Culture, technology and digital transformation. Practical technology design & delivery. Work hard be kind. Co-Founder & head geek (Technology Director) at NotBinary. Simple, thoughtful, user-centred technology design.",
+      "talk": {
+          "title": "Detecting mangrove forests with serverless",
+          "abstract" : "What happens when you have a shiny ML model to detect mangroves, access to a global satellite imagery open dataset and want to serve it to customers ad-hoc without full time infrastructure?"
+      },
+      "social": [
+          {
+              "name": "Twitter",
+              "link": "https://https://twitter.com/davidcarboni",
+              "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+          }
+      ],
+      "links": [
+          {
+              "text": "",
+              "link": ""
+          }
+      ]
+  }
+}

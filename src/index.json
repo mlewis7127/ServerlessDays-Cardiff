@@ -107,6 +107,12 @@
             "alt": "Daniel Bass",
             "link": "/speakers/daniel",
             "talk": "Hear about how we built a sophisticated and user configurable Slack Bot which gives customized trade reports to financial analysts using Serverless technologies on Azure. Learn the patterns we used and the architectural decisions we made from an experienced Serverless Enterprise developer and author."
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578131864/david-carboni_prfaeu.jpg",
+            "alt": "David Carboni",
+            "link": "/speakers/david",
+            "talk": "What happens when you have a shiny ML model to detect mangroves, access to a global satellite imagery open dataset and want to serve it to customers ad-hoc without full time infrastructure?"
         }
       ]
     },
