@@ -37,7 +37,7 @@
             ]
         },
         {
-            "title": "Wild Rydes Serverless Web Application Workshop",
+            "title": "Serverless Web Application Workshop",
             "description": "In this workshop you'll deploy a simple web application that enables users to request unicorn rides from the Wild Rydes fleet.",
             "date": "12 Feb 2020",
             "link": "./aws",
