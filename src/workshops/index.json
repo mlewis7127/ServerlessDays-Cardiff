@@ -2,7 +2,7 @@
     "layout": "workshops.njk",
     "page": {
         "title": "ServerlessDays Cardiff - Workshops",
-        "description": "Enhance your Serverless Knowledge by attending a workshop from one of our partners the day before the conference. You must have a ServerlessDays ticket to book a workshop. More details will be announced soon.",
+        "description": "Enhance your Serverless Knowledge by attending a workshop from one of our partners.",
         "url": "https://cardiff.serverlessdays.io/workshops",
         "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
     },
