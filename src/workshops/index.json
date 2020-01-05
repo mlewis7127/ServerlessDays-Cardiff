@@ -6,6 +6,72 @@
         "url": "https://cardiff.serverlessdays.io/workshops",
         "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
     },
-    "workshops": [        
+    "workshops": [   
+        
+        {
+            "title": "Remote debugging of live AWS Lambda functions",
+            "description": "Learn how to use open source technology to add remote debugging to your favorite IDE for AWS Lambda.",
+            "date": "12 Feb 2020",
+            "link": "./slappforge",
+            "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578216486/slappforge_weeef6.png",
+            "duration": "4 hours",
+            "start": "13:00",
+            "location": "tbc",
+            "capacity": "20",
+            "speakers": [
+                {
+                  "name": "Wallace Wilhoite",
+                  "title": "CEO",
+                  "company": "SLAppForge"
+                },
+                {
+                    "name": "Asankha Perera",
+                    "title": "Founder",
+                    "company": "SLAppForge"
+                },
+                {
+                    "name": "Udith Gunaratna",
+                    "title": "Co-Founder",
+                    "company": "SLAppForge"
+                }
+            ]
+        },
+        {
+            "title": "Wild Rydes Serverless Web Application Workshop",
+            "description": "In this workshop you'll deploy a simple web application that enables users to request unicorn rides from the Wild Rydes fleet.",
+            "date": "12 Feb 2020",
+            "link": "./aws",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
+            "duration": "4 hours",
+            "start": "13:00",
+            "location": "tbc",
+            "capacity": "25",
+            "speakers": [
+                {
+                  "name": "Michael Hume",
+                  "title": "Solutions Architect",
+                  "company": "AWS"
+                }
+            ]
+        },
+        {
+            "title": "Serverless Monitoring and Troubleshooting with Lumigo",
+            "description": "Hands on workshop led by Yan Cui, developer advocate at Lumigo. More details about the workshop will be provided soon.",
+            "date": "12 Feb 2020",
+            "link": "./lumigo",
+            "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578217134/lumigo-logo_j1ttli.png",
+            "duration": "4 hours",
+            "start": "13:00",
+            "location": "tbc",
+            "capacity": "25",
+            "speakers": [
+                {
+                  "name": "Yan Cui",
+                  "title": "Developer Advocate",
+                  "company": "Lumigo"
+                }
+            ]
+        }
+
     ]
 }
