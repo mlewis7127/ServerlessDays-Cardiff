@@ -19,7 +19,7 @@ The content for the workshop is available online:
 
 Thank you!!!
 
-**Location:** TBC
+**Location:** DevOps Group, Floor 22, Capital Tower, Greyfriars Rd, Cardiff CF10 3AG
 
 **Date:** 12 February 2020
 
@@ -27,4 +27,4 @@ Thank you!!!
 
 **Duration:** 4 hours
 
-You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.
+You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket w/c 13th January 2020.
