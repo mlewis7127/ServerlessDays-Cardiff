@@ -71,6 +71,24 @@
                   "company": "Lumigo"
                 }
             ]
+        },
+        {
+            "title": "Serverless Security Workshop",
+            "description": "In this workshop we'll deploy a simple Serverless application to Microsoft Azure, but there's a problem, it has a few security gaps that need addressing. That's our job to fix.",
+            "date": "12 Feb 2020",
+            "link": "./microsoft",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
+            "duration": "4 hours",
+            "start": "13:00",
+            "location": "Venue TBC",
+            "capacity": "25",
+            "speakers": [
+                {
+                  "name": "Dean Bryen",
+                  "title": "Principal Cloud Security Advocate",
+                  "company": "Microsoft"
+                }
+            ]
         }
 
     ]
