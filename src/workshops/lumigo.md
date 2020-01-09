@@ -1,11 +1,15 @@
 # Serverless Monitoring and Troubleshooting
 
-This is a hands-on workshop led by Yan Cui. More details will be provided soon
+In this workshop, led by Yan Cui, you will learn how to troubleshoot issues in your serverless application, including log aggregation, monitoring & alerting, capturing and forwarding correlation IDs and tracing executions through both synchronous and asynchronous micro-service communications. You will learn about AWS services such as CloudWatch, CloudWatch Logs and X-Ray, how they work and where they fall short, and how tools such as Lumigo can help you go further.
 
 
 ### Prerequisites
 
 - Please bring your laptop for the hands-on workshop.
+- AWS account with admin user
+- Node.js 8 or above
+- Serverless framework (npm i -g serverless)
+
 
 ### Speakers
 
