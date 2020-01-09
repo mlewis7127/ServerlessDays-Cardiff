@@ -56,7 +56,7 @@
         },
         {
             "title": "Serverless Monitoring and Troubleshooting with Lumigo",
-            "description": "Hands on workshop led by Yan Cui, developer advocate at Lumigo. More details about the workshop will be provided soon.",
+            "description": "In this workshop you will learn how to troubleshoot issues in your serverless applications.",
             "date": "12 Feb 2020",
             "link": "./lumigo",
             "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578315712/lumigo-white_axh0ix.png",
