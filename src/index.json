@@ -155,16 +155,179 @@
       },
       {
         "time": "09:30",
-        "name": "Keynotes, talks and lightening talks",
+        "name": "Opening Talk",
+        "title": "How to refactor a monolith to serverless in 8 steps",
         "speaker": [
           {
-            "name": "TBC"
+            "name": "Yan Cui",
+            "link": "/speakers/yan"
           }
         ],
         "type": "talk"
       },
       {
-        "time": "17:30",
+        "time": "10:00",
+        "name": "Talk",
+        "title": "To Serverless and Beyond! Successful eCommerce Migration at LEGO",
+        "speaker": [
+          {
+            "name": "Sheen Brisals",
+            "link": "/speakers/sheen"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "10:30",
+        "name": "Talk",
+        "title": "Building a serverless data lake in Azure",
+        "speaker": [
+          {
+            "name": "Carl Austin",
+            "link": "/speakers/carl"
+          },
+          {
+            "name": "Yordanka Ivanova",
+            "link": "/speakers/yordanka"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "11:00",
+        "name": "Break",
+        "type": "break"
+      },
+      {
+        "time": "11:30",
+        "name": "Talk",
+        "title": "Leveling up with Serverless",
+        "speaker": [
+          {
+            "name": "Farrah Campbell",
+            "link": "/speakers/farrah"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "12:00",
+        "name": "Talk",
+        "title": "Serverless your containers with Knative and Cloud Run",
+        "speaker": [
+          {
+            "name": "Bret McGowen",
+            "link": "/speakers/bret"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "12:30",
+        "name": "Talk",
+        "title": "Observability across serverless asynchronous managed services",
+        "speaker": [
+          {
+            "name": "Aviad Mor",
+            "link": "/speakers/aviad"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "13:00",
+        "name": "Lunch",
+        "type": "break"
+      },
+      {
+        "time": "14:00",
+        "name": "Lightning Talk",
+        "title": "Serverless Slack Bots with Azure Durable Functions",
+        "speaker": [
+          {
+            "name": "Daniel Bass",
+            "link": "/speakers/daniel"
+          }
+        ],
+        "type": "lightning"
+      },
+      {
+        "time": "14:15",
+        "name": "Lightning Talk",
+        "title": "",
+        "speaker": [
+          {
+          }
+        ],
+        "type": "lightning"
+      },
+      {
+        "time": "14:30",
+        "name": "Lightning Talk",
+        "title": "Detecting mangrove forests with serverless",
+        "speaker": [
+          {
+            "name": "David Carboni",
+            "link": "/speakers/david"
+          }
+        ],
+        "type": "lightning"
+      },
+      {
+        "time": "14:45",
+        "name": "Lightning Talk",
+        "title": "Imposter Syndrome as a Techie",
+        "speaker": [
+          {
+            "name": "Beth North",
+            "link": "/speakers/beth"
+          }
+        ],
+        "type": "lightning"
+      },
+      {
+        "time": "15:00",
+        "name": "Break",
+        "type": "break"
+      },
+      {
+        "time": "15:30",
+        "name": "Talk",
+        "title": "Building Resilient Serverless Systems with “Non-Serverless” Components",
+        "speaker": [
+          {
+            "name": "Jeremy Daly",
+            "link": "/speakers/jeremy"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "16:00",
+        "name": "Talk",
+        "title": "Failure modes in serverless services",
+        "speaker": [
+          {
+            "name": "Sara Gerion",
+            "link": "/speakers/sara"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "16:30",
+        "name": "Closing Talk",
+        "title": "What Can You Do with Serverless ...in 2020?",
+        "speaker": [
+          {
+            "name": "Danilo Poccia",
+            "link": "/speakers/danilo"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "17:00",
         "name": "Closing Remarks",
         "speaker": [
           {
@@ -174,8 +337,8 @@
         "type": "talk"
       },
       {
-        "time": "18:00",
-        "name": "Networking and Drinks",
+        "time": "17:15",
+        "name": "Networking and Drinks - the venue will stay open till 22:00",
         "type": "break"
       }
 
