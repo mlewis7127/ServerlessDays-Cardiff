@@ -30,15 +30,13 @@
 
       ],
       "silver": [
-        
-
-      ],
-      "community": [
         {
           "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578765331/Mobilise_Logo_ayuydd.png",
           "alt": "Mobilise.cloud",
           "link": "https://www.mobilise.cloud/"
-        },
+        }        
+      ],
+      "community": [
         {
           "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578392696/slappforge-logo-light-version_cdbnou.svg",
           "alt": "SLAppForge",
