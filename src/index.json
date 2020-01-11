@@ -27,10 +27,31 @@
       "platinum": [
       ],
       "gold": [
+
       ],
       "silver": [
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578765331/Mobilise_Logo_ayuydd.png",
+          "alt": "Mobilise.cloud",
+          "link": "https://www.mobilise.cloud/"
+        }        
       ],
       "community": [
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578392696/slappforge-logo-light-version_cdbnou.svg",
+          "alt": "SLAppForge",
+          "link": "https://www.slappforge.com/"
+        },
+        {
+          "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
+          "alt": "Thundra",
+          "link": "https://thundra.io"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578764990/Manninglogo_outline_s0bs7n.png",
+          "alt": "Manning",
+          "link": "https://www.slappforge.com/"
+        }
       ]
     },
     "speakers": {
