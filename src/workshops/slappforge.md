@@ -48,7 +48,7 @@ and Java experience.
 
 Thank you!!!
 
-**Location:** TBC
+**Location:** Tramshed Tech, Unit D, Pendyris St, Cardiff CF11 6BH
 
 **Date:** 12 February 2020
 

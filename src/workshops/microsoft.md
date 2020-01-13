@@ -13,7 +13,7 @@ In this workshop we'll deploy a simple Serverless application to Microsoft Azure
 
 Thank you!!!
 
-**Location:** Venue TBC
+**Location:** Tramshed Tech, Unit D, Pendyris St, Cardiff CF11 6BH
 
 **Date:** 12 February 2020
 

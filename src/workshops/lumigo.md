@@ -17,7 +17,7 @@ In this workshop, led by Yan Cui, you will learn how to troubleshoot issues in y
 
 Thank you!!!
 
-**Location:** Tramshed Tech (Board Room), Unit D, Pendyris St, Cardiff CF11 6BH
+**Location:** Tramshed Tech, Unit D, Pendyris St, Cardiff CF11 6BH
 
 **Date:** 12 February 2020
 
