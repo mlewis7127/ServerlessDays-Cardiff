@@ -24,34 +24,48 @@
         }
     },
     "sponsors": {
-      "platinum": [
-      ],
-      "gold": [
-
+      "gold": [  
+      {
+        "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_110/v1578854316/logos/lumigo_sarvbm.png",
+        "alt": "Lumigo",
+        "link": "https://lumigo.io/"
+      },
+      {
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_105/v1528241128/Amazon_Web_Services_Logo_white.png",
+        "alt": "Amazon Web Services",
+        "link": "https://aws.amazon.com/"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_115/v1578765331/Mobilise_Logo_ayuydd.png",
+        "alt": "Mobilise.cloud",
+        "link": "https://www.mobilise.cloud/"
+      }
       ],
       "silver": [
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578765331/Mobilise_Logo_ayuydd.png",
-          "alt": "Mobilise.cloud",
-          "link": "https://www.mobilise.cloud/"
-        }        
       ],
-      "community": [
+      "bronze": [
         {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578392696/slappforge-logo-light-version_cdbnou.svg",
+          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_45/v1578856566/logos/slappforge_m5j3pp.png",
           "alt": "SLAppForge",
           "link": "https://www.slappforge.com/"
         },
         {
-          "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
-          "alt": "Thundra",
-          "link": "https://thundra.io"
+          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_45/v1578853697/logos/dog_group.png",
+          "alt": "DevOpsGroup",
+          "link": "https://www.devopsgroup.com/"
         },
         {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578764990/Manninglogo_outline_s0bs7n.png",
-          "alt": "Manning",
-          "link": "https://www.slappforge.com/"
+          "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1560205139/Thundra_white.png",
+          "alt": "Thundra",
+          "link": "https://thundra.io"
         }
+      ],
+      "community": [
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_30/v1578764990/Manninglogo_outline_s0bs7n.png",
+          "alt": "Manning",
+          "link": "https://www.manning.com/"
+        } 
       ]
     },
     "speakers": {
