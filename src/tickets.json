@@ -27,11 +27,11 @@
         },
         {
             "title": "Scholarship",
-            "description": "Scholarship ticket",
+            "description": "Scholarship ticket - we have joined up with local groups",
             "price": "£0",
             "cta": {            
-                "path": "#",
-                "name": "Soon"
+                "path": "mailto:cardiff@serverlessdays.io",
+                "name": "Email us"
             }
         }
     ]
