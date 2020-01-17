@@ -60,6 +60,11 @@
           "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_30/v1578764990/Manninglogo_outline_s0bs7n.png",
           "alt": "Manning",
           "link": "https://www.manning.com/"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_100/v1579295423/jetbrains_spyqvo.png",
+          "alt": "JetBrains",
+          "link": "https://www.jetbrains.com/"
         } 
       ]
     },
