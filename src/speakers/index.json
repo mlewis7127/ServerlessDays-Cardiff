@@ -84,6 +84,12 @@
             "alt": "David Carboni",
             "link": "/speakers/david",
             "talk": "What happens when you have a shiny ML model to detect mangroves, access to a global satellite imagery open dataset and want to serve it to customers ad-hoc without full time infrastructure?"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1579267775/siobhan_umnui0.jpg",
+            "alt": "Siobhan Stephens",
+            "link": "/speakers/siobhan",
+            "talk": "Many renters find it difficult to get on the housing ladder and local start-up TenantFootprint aims to help solve this.  Hear about how Serverless technology has been used to bridge the gap between boostrap and scale up."
         }
     ]
 }

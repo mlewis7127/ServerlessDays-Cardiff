@@ -130,9 +130,12 @@
         {
           "time": "14:15",
           "name": "Lightning Talk",
-          "title": "",
+          "title": "Using Serverless to help Generation Rent",
+          "abstract": "Many renters find it difficult to get on the housing ladder and local start-up TenantFootprint aims to help solve this.  Hear about how Serverless technology has been used to bridge the gap between boostrap and scale up.",
           "speaker": [
             {
+              "name": "Siobhan Stephens",
+              "link": "/speakers/siobhan"
             }
           ],
           "type": "lightning"
