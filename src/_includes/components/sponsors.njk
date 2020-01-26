@@ -1,6 +1,6 @@
 <div class="w-100 pv3 tc">
     {% for sponsor in sponsors.gold %}
-        <span class="center dib pa3 v-mid">
+        <span class="center dib ph3 v-mid">
             <a class="no-underline" href="{{ sponsor.link }}">
                 <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
             </a>
@@ -8,7 +8,7 @@
     {% endfor %}
 </div>
 {% if sponsors.silver.length > 0 %}
-    <div class="w-100 pv3 tc">
+    <div class="w-100 ph3 tc">
         {% for sponsor in sponsors.silver %}
             <span class="w-auto center dib pa3 v-mid">
                 <a class="no-underline" href="{{ sponsor.link }}">
@@ -21,7 +21,7 @@
 {% if sponsors.bronze.length > 0 %}
     <div class="w-100 pv3 tc">
         {% for sponsor in sponsors.bronze %}
-            <span class="center dib pa3 v-mid">
+            <span class="center dib ph3 pv2 v-mid">
                 <a class="no-underline" href="{{ sponsor.link }}">
                     <img src="{{ sponsor.img }}" alt="{{ sponsor.alt }}"/>
                 </a>
