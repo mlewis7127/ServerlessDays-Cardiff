@@ -143,7 +143,7 @@
         {
           "time": "14:30",
           "name": "Lightning Talk",
-          "title": "Turning government policy into a computational model",
+          "title": "Identifying Drivers of Poverty with Lambda and Fargate",
           "abstract": "Wouldn't it be nice if government policy could be turned into a computational model? Policy In Practice has done just that to help people understand what benefits they can claim and help councils support the most at risk from poverty and hardship. As the service grows in popularity, manual processes behind the scenes soon expand to fill the team's time and it's time to automate. Using Lambda and Fargate, Policy in Practice is transforming operations into an event-driven data pipeline.",
           "speaker": [
             {
