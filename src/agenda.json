@@ -143,8 +143,8 @@
         {
           "time": "14:30",
           "name": "Lightning Talk",
-          "title": "Detecting mangrove forests with serverless",
-          "abstract": "What happens when you have a shiny ML model to detect mangroves, access to a global satellite imagery open dataset and want to serve it to customers ad-hoc without full time infrastructure?",
+          "title": "Turning government policy into a computational model",
+          "abstract": "Wouldn't it be nice if government policy could be turned into a computational model? Policy In Practice has done just that to help people understand what benefits they can claim and help councils support the most at risk from poverty and hardship. As the service grows in popularity, manual processes behind the scenes soon expand to fill the team's time and it's time to automate. Using Lambda and Fargate, Policy in Practice is transforming operations into an event-driven data pipeline.",
           "speaker": [
             {
               "name": "David Carboni",

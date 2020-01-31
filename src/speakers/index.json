@@ -83,7 +83,7 @@
             "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578131864/david-carboni_prfaeu.jpg",
             "alt": "David Carboni",
             "link": "/speakers/david",
-            "talk": "What happens when you have a shiny ML model to detect mangroves, access to a global satellite imagery open dataset and want to serve it to customers ad-hoc without full time infrastructure?"
+            "talk": "Wouldn't it be nice if government policy could be turned into a computational model? Policy In Practice has done just that to help people understand what benefits they can claim and help councils support the most at risk from poverty and hardship. As the service grows in popularity, manual processes behind the scenes soon expand to fill the team's time and it's time to automate. Using Lambda and Fargate, Policy in Practice is transforming operations into an event-driven data pipeline."
         },
         {
             "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1579267775/siobhan_umnui0.jpg",
