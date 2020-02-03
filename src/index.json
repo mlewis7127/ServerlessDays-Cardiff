@@ -48,9 +48,14 @@
       ],
       "silver": [
         {
-          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_80/v1579778947/logos/AIRBUS_White_dleec7.png",
+          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_70/v1579778947/logos/AIRBUS_White_dleec7.png",
           "alt": "AIRBUS",
           "link": "https://www.airbus.com/"
+        } ,
+        {
+          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_60/v1580765986/logos/hodge-bank-logo_wyebew.png",
+          "alt": "hodge",
+          "link": "https://www.hodgebank.co.uk/"
         }  
       ],
       "bronze": [
