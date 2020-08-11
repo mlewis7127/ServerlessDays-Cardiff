@@ -31,21 +31,31 @@
         "link": "https://lumigo.io/"
       },
       {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_95/v1578765331/Mobilise_Logo_ayuydd.png",
+        "alt": "Mobilise.cloud",
+        "link": "https://www.mobilise.cloud/"
+      },
+      {
         "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_90/v1528241128/Amazon_Web_Services_Logo_white.png",
         "alt": "Amazon Web Services",
         "link": "https://aws.amazon.com/"
       },
       {
-        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_95/v1578765331/Mobilise_Logo_ayuydd.png",
-        "alt": "Mobilise.cloud",
-        "link": "https://www.mobilise.cloud/"
-      }    
+        "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_55/v1580730661/logos/capgemini_cqmko7.png",
+        "alt": "Capgemini",
+        "link": "https://www.capgemini.com/"
+      }  
       ],
       "silver": [
         {
-          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_80/v1579778947/logos/AIRBUS_White_dleec7.png",
+          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_70/v1579778947/logos/AIRBUS_White_dleec7.png",
           "alt": "AIRBUS",
           "link": "https://www.airbus.com/"
+        } ,
+        {
+          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_60/v1580765986/logos/hodge-bank-logo_wyebew.png",
+          "alt": "hodge",
+          "link": "https://www.hodgebank.co.uk/"
         }  
       ],
       "bronze": [
