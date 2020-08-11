@@ -12,8 +12,8 @@
             "description": "Standard Admission",
             "price": "£30",
             "cta": {            
-                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2020/with/l6uwcc36vq4",
-                "name": "Buy"
+                "path": "#",
+                "name": "Expired"
             }
         },
         {
@@ -21,8 +21,8 @@
             "description": "Standard Admission for you and sponsor a ticket for someone else",
             "price": "£60",
             "cta": {            
-                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2020/with/dtogfhytjsm",
-                "name": "Buy"
+                "path": "#",
+                "name": "Expired"
             }
         },
         {
@@ -30,8 +30,8 @@
             "description": "Scholarship ticket - we have joined up with local groups",
             "price": "£0",
             "cta": {            
-                "path": "mailto:cardiff@serverlessdays.io",
-                "name": "Email us"
+                "path": "",
+                "name": "Expired"
             }
         }
     ]

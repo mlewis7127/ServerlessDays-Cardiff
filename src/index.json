@@ -100,12 +100,6 @@
             "talk": "Getting the needed traceability in order to troubleshoot quickly across managed a-sync services is not simple. We would like to share our experience of how this can be done."
         },
         {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1576935854/bret-mcgowen_l5wuth.jpg",
-            "alt": "Bret McGowen",
-            "link": "/speakers/bret",
-            "talk": "Serverless containers have interesting advantages, including custom runtimes and languages, multi-concurrency which can result in fewer cold starts, etc. And with community tools, it can even build those Dockerfiles for you!"
-        },
-        {
             "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1577031107/speakers/beth_north_xx9cpr.jpg",
             "alt": "Beth North",
             "link": "/speakers/beth",
@@ -243,14 +237,7 @@
       {
         "time": "12:00",
         "name": "Talk",
-        "title": "Serverless your containers with Knative and Cloud Run",
-        "speaker": [
-          {
-            "name": "Bret McGowen",
-            "link": "/speakers/bret"
-          }
-        ],
-        "type": "talk"
+        "title": "Removed"
       },
       {
         "time": "12:30",
